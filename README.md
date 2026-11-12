@@ -12,4 +12,4 @@ SQL (BigQuery) · Python (pandas, scikit-learn, Plotly, Streamlit) · Tableau ·
 
 ## 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/md-shamser-ali-javed-ph-d-a84058121/
-- Email: mdshamseralij@smu.edu
+- Email: mdshamseralijaved.smu@gmail.com
